@@ -1,0 +1,4 @@
+# config-repo/catalog-service-prod.yml
+
+polar:
+  greeting: "Welcome to the production catalog from the config server"
